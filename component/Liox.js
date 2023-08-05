@@ -4,7 +4,7 @@ const Liox = ()=>{
     return(
         <View>
             <Text>
-                Genmarks is the brad of USA 
+                Genmarks is the brad of USA is
             </Text>
         </View>
     )

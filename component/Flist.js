@@ -17,7 +17,7 @@ const Flist = () => {
         },
         {
             id: 4,
-            name: "Talha nabou"
+            name: "Talha Gan"
         },
     ]
     return (
